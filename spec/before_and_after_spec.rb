@@ -5,7 +5,7 @@ RSpec.describe 'before and after hooks' do
 	end
 
 	after(:context) do 
-		puts 'Before context'
+		puts 'Afer context'
 	end
 
 	#for each test
